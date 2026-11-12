@@ -1,4 +1,3 @@
-
 package dating.model;
 
 import java.util.Collections;
